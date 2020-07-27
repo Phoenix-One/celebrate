@@ -3,8 +3,8 @@
 # Imports discord functions.  See https://pypi.org/project/discord.py/
 import discord
 
-# Imports file (discordcredentials.py) that stores bot credentials (clientID, client secret, and token)
-from discordcredentials import *
+# Imports file (celebratecredentials.py) that stores bot credentials (clientID, client secret, and token)
+from celebratecredentials import *
 
 # Clients are the connection to Discord websocket and API.
 # https://discordpy.readthedocs.io/en/latest/api.html#discord.Client.
