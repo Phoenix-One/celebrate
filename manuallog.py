@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 
+# Imports basic python function libraries
+import time
+
 def celebrate():
 
     month = time.strftime('%B')
@@ -48,7 +51,7 @@ def May():
 def June():
     print('June')
 
-def July(discord.client):
+def July():
     print('July')
 
 def August():
